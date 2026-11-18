@@ -1,0 +1,32 @@
+{
+  "id": "grayscale-16",
+  "name": "Grayscale 16",
+  "colors": [
+    "#000000",
+    "#111111",
+    "#222222",
+    "#333333",
+    "#444444",
+    "#555555",
+    "#666666",
+    "#777777",
+    "#888888",
+    "#999999",
+    "#AAAAAA",
+    "#BBBBBB",
+    "#CCCCCC",
+    "#DDDDDD",
+    "#EEEEEE",
+    "#FFFFFF"
+  ],
+  "group": "basic",
+  "source": "Sixteen evenly spaced greys.",
+  "sourceUrl": null,
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes",
+    "editor": "https://simplepixelart.com/editor"
+  },
+  "count": 16,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

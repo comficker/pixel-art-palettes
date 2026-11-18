@@ -1,0 +1,12 @@
+The palette data in data/ and the swatch images in assets/ are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested credit:
+  Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)
+
+The individual colour values are hardware, standard or formula values and are
+not claimed as anyone's creation; the licence covers this compilation, its
+names, notes and file formats. See SOURCES.md for where each palette comes from.
+
+The code (src/, bin/, scripts/) is MIT licensed — see LICENSE.

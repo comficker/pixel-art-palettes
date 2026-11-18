@@ -1,0 +1,18 @@
+{
+  "id": "1-bit",
+  "name": "1-bit",
+  "colors": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "group": "basic",
+  "source": "Black and white.",
+  "sourceUrl": null,
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/000000-ffffff-akhvledianialyona",
+    "editor": "https://simplepixelart.com/editor?palette=000000-ffffff-akhvledianialyona"
+  },
+  "count": 2,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

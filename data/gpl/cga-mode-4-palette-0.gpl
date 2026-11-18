@@ -1,0 +1,9 @@
+GIMP Palette
+Name: CGA Mode 4, palette 0 (high)
+Columns: 4
+# 4 colours · https://simplepixelart.com/palettes
+#
+  0   0   0	#000000
+ 85 255  85	#55FF55
+255  85  85	#FF5555
+255 255  85	#FFFF55

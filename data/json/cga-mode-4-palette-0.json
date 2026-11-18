@@ -1,0 +1,20 @@
+{
+  "id": "cga-mode-4-palette-0",
+  "name": "CGA Mode 4, palette 0 (high)",
+  "colors": [
+    "#000000",
+    "#55FF55",
+    "#FF5555",
+    "#FFFF55"
+  ],
+  "group": "hardware",
+  "source": "CGA 320×200 four-colour mode, palette 0 at high intensity (green, red, yellow).",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Color_Graphics_Adapter",
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes",
+    "editor": "https://simplepixelart.com/editor"
+  },
+  "count": 4,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

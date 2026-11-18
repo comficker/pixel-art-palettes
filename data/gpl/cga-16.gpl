@@ -1,0 +1,21 @@
+GIMP Palette
+Name: CGA 16
+Columns: 16
+# 16 colours · https://simplepixelart.com/palettes/000000-0000aa-00aa00-00aaaa-aa0000-aa00aa-aa5500-aaaaaa-74cd0d6d
+#
+  0   0   0	#000000
+  0   0 170	#0000AA
+  0 170   0	#00AA00
+  0 170 170	#00AAAA
+170   0   0	#AA0000
+170   0 170	#AA00AA
+170  85   0	#AA5500
+170 170 170	#AAAAAA
+ 85  85  85	#555555
+ 85  85 255	#5555FF
+ 85 255  85	#55FF55
+ 85 255 255	#55FFFF
+255  85  85	#FF5555
+255  85 255	#FF55FF
+255 255  85	#FFFF55
+255 255 255	#FFFFFF

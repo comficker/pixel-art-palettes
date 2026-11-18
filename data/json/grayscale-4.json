@@ -1,0 +1,20 @@
+{
+  "id": "grayscale-4",
+  "name": "Grayscale 4",
+  "colors": [
+    "#000000",
+    "#555555",
+    "#AAAAAA",
+    "#FFFFFF"
+  ],
+  "group": "basic",
+  "source": "Four evenly spaced greys.",
+  "sourceUrl": null,
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/000000-555555-aaaaaa-ffffff",
+    "editor": "https://simplepixelart.com/editor?palette=000000-555555-aaaaaa-ffffff"
+  },
+  "count": 4,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

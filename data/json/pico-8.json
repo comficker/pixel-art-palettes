@@ -1,0 +1,32 @@
+{
+  "id": "pico-8",
+  "name": "PICO-8",
+  "colors": [
+    "#000000",
+    "#1D2B53",
+    "#7E2553",
+    "#008751",
+    "#AB5236",
+    "#5F574F",
+    "#C2C3C7",
+    "#FFF1E8",
+    "#FF004D",
+    "#FFA300",
+    "#FFEC27",
+    "#00E436",
+    "#29ADFF",
+    "#83769C",
+    "#FF77A8",
+    "#FFCCAA"
+  ],
+  "group": "hardware",
+  "source": "The 16 fixed colours of the PICO-8 fantasy console by Lexaloffle Games.",
+  "sourceUrl": "https://www.lexaloffle.com/pico-8.php",
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes",
+    "editor": "https://simplepixelart.com/editor"
+  },
+  "count": 16,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

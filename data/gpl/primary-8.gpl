@@ -1,0 +1,13 @@
+GIMP Palette
+Name: Primary 8
+Columns: 8
+# 8 colours · https://simplepixelart.com/palettes/000000-ffffff-ff0000-00ff00-0000ff-ffff00-00ffff-ff00ff-usbugraus
+#
+  0   0   0	#000000
+255 255 255	#FFFFFF
+255   0   0	#FF0000
+  0 255   0	#00FF00
+  0   0 255	#0000FF
+255 255   0	#FFFF00
+  0 255 255	#00FFFF
+255   0 255	#FF00FF

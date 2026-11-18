@@ -1,0 +1,24 @@
+{
+  "id": "primary-8",
+  "name": "Primary 8",
+  "colors": [
+    "#000000",
+    "#FFFFFF",
+    "#FF0000",
+    "#00FF00",
+    "#0000FF",
+    "#FFFF00",
+    "#00FFFF",
+    "#FF00FF"
+  ],
+  "group": "basic",
+  "source": "Black, white, the RGB primaries and their secondaries.",
+  "sourceUrl": null,
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/000000-ffffff-ff0000-00ff00-0000ff-ffff00-00ffff-ff00ff-usbugraus",
+    "editor": "https://simplepixelart.com/editor?palette=000000-ffffff-ff0000-00ff00-0000ff-ffff00-00ffff-ff00ff-usbugraus"
+  },
+  "count": 8,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

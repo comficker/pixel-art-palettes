@@ -1,0 +1,13 @@
+GIMP Palette
+Name: Grayscale 8
+Columns: 8
+# 8 colours · https://simplepixelart.com/palettes/000000-242424-484848-6d6d6d-919191-b6b6b6-dadada-ffffff
+#
+  0   0   0	#000000
+ 36  36  36	#242424
+ 72  72  72	#484848
+109 109 109	#6D6D6D
+145 145 145	#919191
+182 182 182	#B6B6B6
+218 218 218	#DADADA
+255 255 255	#FFFFFF

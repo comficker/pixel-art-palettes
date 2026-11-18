@@ -1,0 +1,20 @@
+{
+  "id": "game-boy-dmg",
+  "name": "Game Boy (DMG)",
+  "colors": [
+    "#0F380F",
+    "#306230",
+    "#8BAC0F",
+    "#9BBC0F"
+  ],
+  "group": "hardware",
+  "source": "The four green shades of the original Game Boy screen, in the values most emulators and pixel artists use.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Game_Boy",
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/0f380f-306230-8bac0f-9bbc0f",
+    "editor": "https://simplepixelart.com/editor?palette=0f380f-306230-8bac0f-9bbc0f"
+  },
+  "count": 4,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

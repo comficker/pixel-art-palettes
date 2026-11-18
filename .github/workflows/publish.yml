@@ -1,0 +1,36 @@
+# Publishes to npm when a version tag is pushed, using npm trusted publishing
+# (OIDC): no npm token is stored in the repository. Configure the trusted
+# publisher for this repo + workflow on npmjs.com before the first tag.
+name: publish
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: read
+  id-token: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          registry-url: https://registry.npmjs.org
+      - run: npm install -g npm@latest
+      - run: npm run build
+      - run: git diff --exit-code
+      - run: npm test
+      - name: Tag matches package.json
+        run: test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
+      # The first version is published by hand (npm needs the package to
+      # exist before a trusted publisher can be set up); skip any version
+      # that is already on npm instead of failing.
+      - name: Publish unless already on npm
+        run: |
+          V=$(node -p "require('./package.json').version")
+          if npm view "pixel-art-palettes@$V" version >/dev/null 2>&1; then
+            echo "pixel-art-palettes@$V is already published"
+          else
+            npm publish --provenance --access public
+          fi

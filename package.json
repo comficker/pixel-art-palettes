@@ -1,0 +1,66 @@
+{
+  "name": "pixel-art-palettes",
+  "version": "1.0.0",
+  "description": "Pixel art color palettes as JSON, CSV and GPL: PICO-8, Game Boy, CGA, EGA and more, with hex codes, a nearest-color matcher and a CLI.",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./data/*": "./data/*",
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "pixel-art-palettes": "bin/cli.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "data",
+    "SOURCES.md",
+    "LICENSE",
+    "LICENSE-DATA"
+  ],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/run.mjs"
+  },
+  "keywords": [
+    "pixel-art",
+    "palette",
+    "color-palette",
+    "pixel-art-palette",
+    "pico-8",
+    "gameboy",
+    "cga",
+    "ega",
+    "aseprite",
+    "gpl",
+    "gimp-palette",
+    "lospec",
+    "retro",
+    "8-bit",
+    "gamedev",
+    "hex-colors",
+    "color-codes",
+    "nearest-color",
+    "oklab",
+    "cli"
+  ],
+  "homepage": "https://simplepixelart.com/palettes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comficker/pixel-art-palettes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/comficker/pixel-art-palettes/issues"
+  },
+  "author": "SimplePixelArt (https://simplepixelart.com)",
+  "license": "MIT AND CC-BY-4.0",
+  "engines": {
+    "node": ">=18"
+  }
+}

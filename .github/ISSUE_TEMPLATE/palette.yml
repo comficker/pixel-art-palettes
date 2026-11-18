@@ -1,0 +1,25 @@
+name: Palette problem or request
+description: A wrong colour, a missing palette, or a palette you made and want included
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is it about?
+      options:
+        - A colour value is wrong
+        - Please add a palette
+        - I made a palette and want it included
+    validations:
+      required: true
+  - type: input
+    id: palette
+    attributes:
+      label: Palette id or name
+      placeholder: e.g. cga-16
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and source
+      description: For a wrong colour, the correct value and where it comes from. For a new palette, its colours, its author and its licence.
+    validations:
+      required: true

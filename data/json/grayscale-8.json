@@ -1,0 +1,24 @@
+{
+  "id": "grayscale-8",
+  "name": "Grayscale 8",
+  "colors": [
+    "#000000",
+    "#242424",
+    "#484848",
+    "#6D6D6D",
+    "#919191",
+    "#B6B6B6",
+    "#DADADA",
+    "#FFFFFF"
+  ],
+  "group": "basic",
+  "source": "Eight evenly spaced greys (i × 255 / 7, rounded down).",
+  "sourceUrl": null,
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/000000-242424-484848-6d6d6d-919191-b6b6b6-dadada-ffffff",
+    "editor": "https://simplepixelart.com/editor?palette=000000-242424-484848-6d6d6d-919191-b6b6b6-dadada-ffffff"
+  },
+  "count": 8,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

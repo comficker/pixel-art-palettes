@@ -1,0 +1,146 @@
+{
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)",
+  "palettes": [
+    {
+      "id": "pico-8",
+      "name": "PICO-8",
+      "count": 16,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes",
+        "editor": "https://simplepixelart.com/editor"
+      }
+    },
+    {
+      "id": "game-boy-dmg",
+      "name": "Game Boy (DMG)",
+      "count": 4,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/0f380f-306230-8bac0f-9bbc0f",
+        "editor": "https://simplepixelart.com/editor?palette=0f380f-306230-8bac0f-9bbc0f"
+      }
+    },
+    {
+      "id": "game-boy-pocket",
+      "name": "Game Boy Pocket",
+      "count": 4,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/1b1b1b-525252-a6a6a6-e0e0e0",
+        "editor": "https://simplepixelart.com/editor?palette=1b1b1b-525252-a6a6a6-e0e0e0"
+      }
+    },
+    {
+      "id": "cga-16",
+      "name": "CGA 16",
+      "count": 16,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/000000-0000aa-00aa00-00aaaa-aa0000-aa00aa-aa5500-aaaaaa-74cd0d6d",
+        "editor": "https://simplepixelart.com/editor?palette=000000-0000aa-00aa00-00aaaa-aa0000-aa00aa-aa5500-aaaaaa-74cd0d6d"
+      }
+    },
+    {
+      "id": "cga-mode-4-palette-1",
+      "name": "CGA Mode 4, palette 1 (high)",
+      "count": 4,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/000000-55ffff-ff55ff-ffffff",
+        "editor": "https://simplepixelart.com/editor?palette=000000-55ffff-ff55ff-ffffff"
+      }
+    },
+    {
+      "id": "cga-mode-4-palette-0",
+      "name": "CGA Mode 4, palette 0 (high)",
+      "count": 4,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes",
+        "editor": "https://simplepixelart.com/editor"
+      }
+    },
+    {
+      "id": "ega-64",
+      "name": "EGA 64",
+      "count": 64,
+      "group": "hardware",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes",
+        "editor": "https://simplepixelart.com/editor"
+      }
+    },
+    {
+      "id": "rgb-332",
+      "name": "RGB 3-3-2",
+      "count": 256,
+      "group": "standard",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes",
+        "editor": "https://simplepixelart.com/editor"
+      }
+    },
+    {
+      "id": "web-safe-216",
+      "name": "Web-safe 216",
+      "count": 216,
+      "group": "standard",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes",
+        "editor": "https://simplepixelart.com/editor"
+      }
+    },
+    {
+      "id": "1-bit",
+      "name": "1-bit",
+      "count": 2,
+      "group": "basic",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/000000-ffffff-akhvledianialyona",
+        "editor": "https://simplepixelart.com/editor?palette=000000-ffffff-akhvledianialyona"
+      }
+    },
+    {
+      "id": "grayscale-4",
+      "name": "Grayscale 4",
+      "count": 4,
+      "group": "basic",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/000000-555555-aaaaaa-ffffff",
+        "editor": "https://simplepixelart.com/editor?palette=000000-555555-aaaaaa-ffffff"
+      }
+    },
+    {
+      "id": "grayscale-8",
+      "name": "Grayscale 8",
+      "count": 8,
+      "group": "basic",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/000000-242424-484848-6d6d6d-919191-b6b6b6-dadada-ffffff",
+        "editor": "https://simplepixelart.com/editor?palette=000000-242424-484848-6d6d6d-919191-b6b6b6-dadada-ffffff"
+      }
+    },
+    {
+      "id": "grayscale-16",
+      "name": "Grayscale 16",
+      "count": 16,
+      "group": "basic",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes",
+        "editor": "https://simplepixelart.com/editor"
+      }
+    },
+    {
+      "id": "primary-8",
+      "name": "Primary 8",
+      "count": 8,
+      "group": "basic",
+      "simplepixelart": {
+        "page": "https://simplepixelart.com/palettes/000000-ffffff-ff0000-00ff00-0000ff-ffff00-00ffff-ff00ff-usbugraus",
+        "editor": "https://simplepixelart.com/editor?palette=000000-ffffff-ff0000-00ff00-0000ff-ffff00-00ffff-ff00ff-usbugraus"
+      }
+    }
+  ]
+}

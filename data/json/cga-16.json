@@ -1,0 +1,32 @@
+{
+  "id": "cga-16",
+  "name": "CGA 16",
+  "colors": [
+    "#000000",
+    "#0000AA",
+    "#00AA00",
+    "#00AAAA",
+    "#AA0000",
+    "#AA00AA",
+    "#AA5500",
+    "#AAAAAA",
+    "#555555",
+    "#5555FF",
+    "#55FF55",
+    "#55FFFF",
+    "#FF5555",
+    "#FF55FF",
+    "#FFFF55",
+    "#FFFFFF"
+  ],
+  "group": "hardware",
+  "source": "The IBM Color Graphics Adapter RGBI palette, including the brown adjustment of colour 6.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Color_Graphics_Adapter",
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/000000-0000aa-00aa00-00aaaa-aa0000-aa00aa-aa5500-aaaaaa-74cd0d6d",
+    "editor": "https://simplepixelart.com/editor?palette=000000-0000aa-00aa00-00aaaa-aa0000-aa00aa-aa5500-aaaaaa-74cd0d6d"
+  },
+  "count": 16,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}

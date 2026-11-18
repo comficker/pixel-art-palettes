@@ -1,0 +1,20 @@
+{
+  "id": "game-boy-pocket",
+  "name": "Game Boy Pocket",
+  "colors": [
+    "#1B1B1B",
+    "#525252",
+    "#A6A6A6",
+    "#E0E0E0"
+  ],
+  "group": "hardware",
+  "source": "The four grey shades of the Game Boy Pocket screen.",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Game_Boy_Pocket",
+  "simplepixelart": {
+    "page": "https://simplepixelart.com/palettes/1b1b1b-525252-a6a6a6-e0e0e0",
+    "editor": "https://simplepixelart.com/editor?palette=1b1b1b-525252-a6a6a6-e0e0e0"
+  },
+  "count": 4,
+  "license": "CC-BY-4.0",
+  "credit": "Palettes: pixel-art-palettes by SimplePixelArt (https://simplepixelart.com/palettes)"
+}
